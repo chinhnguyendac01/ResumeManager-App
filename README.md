@@ -20,8 +20,8 @@ Công nghệ sử dụng:
 - Entity Framework Core
 
 Database:
+![image](https://github.com/chinhnguyendac01/ResumeManager-App/assets/101082005/61934752-fe1e-4e09-acd2-89606e02f697)
 
-![image](https://github.com/chinhnguyendac01/ResumeManagerApp/assets/101082005/cbce68bf-2718-435c-a9ae-52fedbf5173b)
 
 
 API:
