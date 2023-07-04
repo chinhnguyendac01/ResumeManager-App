@@ -4,10 +4,12 @@ Website quản lý hồ sơ lý lịch của ứng viên gồm có chức năng 
 Demo:
 
 Trang ứng viên :
-![image](https://github.com/chinhnguyendac01/ResumeManagerApp/assets/101082005/9ce48eb5-a0cc-45a8-a92a-f56145a07da0)
+![image](https://github.com/chinhnguyendac01/ResumeManager-App/assets/101082005/ac0886c1-68ca-4edb-ab09-0709444b8d3a)
+
 
 Thêm ứng viên :
-![image](https://github.com/chinhnguyendac01/ResumeManagerApp/assets/101082005/e83aaa6c-0122-4113-90ab-2e8284ca36c8)
+![image](https://github.com/chinhnguyendac01/ResumeManager-App/assets/101082005/f0b30ab9-5d0f-4d14-b77a-2912427a9656)
+
 
 
 Công nghệ sử dụng:
@@ -22,6 +24,8 @@ Database:
 ![image](https://github.com/chinhnguyendac01/ResumeManagerApp/assets/101082005/cbce68bf-2718-435c-a9ae-52fedbf5173b)
 
 
+API:
+![image](https://github.com/chinhnguyendac01/ResumeManager-App/assets/101082005/640e7446-5f36-45ed-9971-2f8e24d233c7)
 
 
 + On Backend project :
